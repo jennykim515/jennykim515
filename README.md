@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on brushing up on data structures <br>👯 I’m looking to collaborate on full-stack projects<br>🌱 I’m currently learning modern web technologies like React, Node.js, and MongoDB<br>💬 Ask me about my interests outside of tech, like linguistics and film<br>⚡ Fun fact: I was prev an applied math major who didn't know what coding was until my freshman year!
+💡 I'm currently an undergrad @USC majoring in computer science
+🌱 I’m currently learning modern web technologies like React, Node.js, and MongoDB<br>💬 Ask me about my interests outside of tech, like linguistics and film<br>
 
 
 ## 🌐 Socials:
