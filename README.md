@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 I'm currently an undergrad @USC majoring in computer science
+💡 I'm currently an undergrad @USC majoring in computer science<br>
 🌱 I’m currently learning modern web technologies like React, Node.js, and MongoDB<br>💬 Ask me about my interests outside of tech, like linguistics and film<br>
 
 
